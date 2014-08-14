@@ -1,0 +1,8 @@
+# Translation in french of $minetest/mods/afk/* by Mg on 8/11/2014
+
+### init.lua ###
+Become afk = Devenir afk
+Re = Re
+ is afk =  est afk
+ is re! =  est re!
+Came back = Revenir

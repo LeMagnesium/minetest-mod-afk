@@ -1,0 +1,8 @@
+# Template of $minetest/mods/afk/*
+
+### init.lua ###
+Become afk = 
+Re = 
+ is afk = 
+ is re! = 
+Came back = 
